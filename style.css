@@ -43,7 +43,7 @@ a {
 }
 
 .gridItem {
-    width: calc(33.3% - 10px);
+    width: 33.3%;
     cursor: pointer;
     padding: 10px;
     box-sizing: border-box;
